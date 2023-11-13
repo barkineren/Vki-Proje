@@ -15,10 +15,6 @@ Bu basit VKİ (Vücut Kitle İndeksi) hesaplayıcı uygulaması, kullanıcılar�
 2. İndirdiğiniz dizine gidin.
 3. `index.html` dosyasını tarayıcınızda açarak uygulamayı başlatın.
 
-## Ekran Görüntüsü
-
-![Uygulama Ekran Görüntüsü](screenshot.png)
-
 ## Teknolojiler
 
 - HTML
