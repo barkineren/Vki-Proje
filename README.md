@@ -5,8 +5,7 @@ Bu basit VKİ (Vücut Kitle İndeksi) hesaplayıcı uygulaması, kullanıcılar�
 ## Özellikler
 
 - VKİ hesaplaması: Kullanıcılar kilo ve boy bilgilerini girerek VKİ sonuçlarını hesaplayabilirler.
-- Geçmiş Sonuçları Kaydetme: Kullanıcılar hesapladıkları VKİ sonuçlarını kaydedebilir ve daha sonra görüntüleyebilirler.
-- Hata Kontrolü: Kullanıcıların geçersiz veri girişi yapmalarını önlemek için hata kontrolleri eklenmiştir.
+- Geçmiş Sonuçları Temizler: Kullanıcılar hesapladıkları VKİ sonuçlarını temizler.
 - Basit ve Kullanıcı Dostu Arayüz: Bootstrap ve temiz HTML/CSS kullanılarak oluşturulmuş basit bir arayüz.
 
 ## Kullanım
